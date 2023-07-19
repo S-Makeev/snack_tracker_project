@@ -1,6 +1,6 @@
-LAB - Class 27
-Project: Django Models
-Author: Slava Makeev
+** LAB - Class 27
+*** Project: Django Models
+*** Author: Slava Makeev
 
 back-end server url: localhost
 
