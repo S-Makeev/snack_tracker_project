@@ -1,0 +1,26 @@
+LAB - Class 27
+Project: Django Models
+Author: Slava Makeev
+
+back-end server url: localhost
+
+Setup
+.env requirements (where applicable) - enter your virtual environment.
+
+Dependencies:
+
+asgiref==3.7.2
+Django==4.2.3
+exceptiongroup==1.1.1
+iniconfig==2.0.0
+packaging==23.1
+pluggy==1.2.0
+pytest==7.3.2
+sqlparse==0.4.4
+tomli==2.0.1
+typing_extensions==4.7.1
+
+
+Tests
+
+>python3 manage.py test
